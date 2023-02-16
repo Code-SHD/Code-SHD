@@ -2,7 +2,7 @@
 
 🧑 My Information:
 
-Nationality: Korea
+  Nationality: Korea
 Using language: Python, JS, SQL, Rust
   
 🌱 I’m currently learning SQL and Rust
