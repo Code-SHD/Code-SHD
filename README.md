@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-###🧑 My Information:
+🧑 My Information:
   Nationality: Korea
   Using language: Python, JS, SQL, Rust
   
-🌱 I’m currently learning SQL
+🌱 I’m currently learning SQL and Rust
 📫 How to reach me: 
 
 
