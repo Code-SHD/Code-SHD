@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🧑 My Information:
+
   Nationality: Korea
+  
   Using language: Python, JS, SQL, Rust
   
 🌱 I’m currently learning SQL and Rust
