@@ -5,6 +5,7 @@
 🛠️Using language: Python, JS, SQL, Rust
   
 🌱 I’m currently learning SQL and Rust
+
 📫 How to reach me: 
 
 
