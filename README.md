@@ -2,7 +2,7 @@
 
 🌐 Nationality: Korea
 
-🛠️ Using language: Python, JS, SQL, Rust, C
+🛠️ Using language: Python, JS, SQL, Rust and C
   
 🌱 I’m currently learning SQL and Rust
 
